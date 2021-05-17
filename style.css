@@ -1,4 +1,11 @@
-body {
+html {
 	color: #ebdbb2;
 	background: #282828;
+}
+
+h2, p {
+	max-width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+
 }
