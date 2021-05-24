@@ -3,9 +3,13 @@ html {
 	background: #282828;
 }
 
-h2, p {
-	max-width: 1000px;
+h2, p, li {
+	max-width: 1500px;
 	margin-left: auto;
 	margin-right: auto;
 
 }
+
+a {
+	color: #458588;
+{
